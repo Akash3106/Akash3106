@@ -13,8 +13,8 @@ I am selftaught enthusiastic Full Stack Developer 🌐, App Developer 📱 anda 
 - 🌱 &nbsp; I’m currently learning NextJS and Typescript; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/akash3106?tab=repositories)
 - 💬 &nbsp; Ask me about anything related to Javascript/Typescript/React/Next/Node
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mohdkamran07/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1dXGoZGmbGgEus8OdQ7ymMhCy4esYEw3X/view?usp=sharing)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/akash-04/)
+<!-- - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1dXGoZGmbGgEus8OdQ7ymMhCy4esYEw3X/view?usp=sharing) -->
 <br/>
 
 ### 💼 Languages and Tools:
