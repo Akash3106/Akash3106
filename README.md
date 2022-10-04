@@ -43,11 +43,11 @@ I am selftaught enthusiastic Full Stack Developer 🌐, App Developer 📱 anda 
 </a>
 <br/>
   
-### 📕  Latest Blog Posts
+<!-- ### 📕  Latest Blog Posts
 - [Beginners guide to NextJS...](https://dev.to/akash3106/beginners-guide-to-nextjs-3ge)
 - [5 GitHub Repositories for learning developers...](https://dev.to/akash3106/5-github-repositories-for-learning-developers-4kn6)
 - [Introduction to Git and GitHub](https://dev.to/akash3106/introduction-to-git-and-github-d0d)
-<br/>
+<br/> -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=akash3106.akash3106)
 
