@@ -1,9 +1,8 @@
 ## Hey 👋, I'm Akash Deep Sharma!
 <a href="https://akashresume-da3ae.web.app/" target='_blank' ><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 <a href='https://www.linkedin.com/in/akash-04/' target='_blank'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href='https://twitter.com/crater90/' target='_blank'><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://dev.to/crater90"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
-<br/>
+<a href='https://twitter.com/akash__731/' target='_blank'><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+
 
 I am selftaught enthusiastic Full Stack Developer 🌐, App Developer 📱 anda a beginner level Designer 🎨. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. Besides coding, I am always playing games with my friends 😁. 
 <br/>
