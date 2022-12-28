@@ -4,7 +4,7 @@
 <a href='https://twitter.com/akash__731/' target='_blank'><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
 
-I am selftaught enthusiastic Full Stack Developer 🌐, App Developer 📱 anda a beginner level Designer 🎨. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. Besides coding, I am always playing games with my friends 😁. 
+I am self taught enthusiastic Full Stack Developer 🌐, App Developer 📱 anda a beginner level Designer 🎨. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. Besides coding, I am always playing games with my friends 😁. 
 <br/>
 
 ### 🧐 More About Me:
